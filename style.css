@@ -88,7 +88,7 @@ button:active{
 }
 h1{
     font-weight: 700;
-    font-size: clamp(60px, 5vw, 40px);
+    font-size: clamp(40px, 5vw, 40px);
     color: #ffffff;
     margin-top: 50px;
 }
