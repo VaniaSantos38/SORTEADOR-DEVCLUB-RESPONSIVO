@@ -86,6 +86,12 @@ button:hover{
 button:active{
     opacity: 0.8;
 }
+h1{
+    font-weight: 700;
+    font-size: clamp(60px, 5vw, 40px);
+    color: #ffffff;
+    margin-top: 50px;
+}
 
 /* 📱 Telas pequenas (celular) */
 @media (max-width: 480px){
