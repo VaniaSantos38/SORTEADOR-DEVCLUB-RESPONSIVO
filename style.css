@@ -9,7 +9,9 @@
 }
 
 body{
-    background: #000000;
+    background: #01A15E;
+    background-size: cover;
+    background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,7 +63,7 @@ input{
    padding-left: 10px;
    font-weight: 500;
    font-size: clamp(18px, 3vw, 28px);
-   color: #FFFFFF;
+   color: #ffffff;
    margin-bottom: 8px;
 }
 
